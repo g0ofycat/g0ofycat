@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0ofycat&hide_progress=false&theme=shadow_red)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=g0ofycat&theme=git-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=g0ofycat&theme=shadow-red)](https://git.io/streak-stats)

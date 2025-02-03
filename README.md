@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/user-attachments/assets/16f40421-153c-4acb-9f3c-5382b773f537)
-
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/16f40421-153c-4acb-9f3c-5382b773f537">
+  
 ☆ *Hi, i'm g0ofycat! A 4 year Game / Web developer! (Mainly Game Developer) I am full-stack for both of them, currently not taking any Commisions/Jobs! Read my portfolio if you have any extra questions!* ☆ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0ofycat&show_icons=true&theme=midnight-purple)

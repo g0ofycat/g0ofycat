@@ -4,7 +4,7 @@
 
 <br>
 <div align="center">
-  <h2>    -- Github Staticstics --</h2>
+  <h2>🐈‍⬛ Github Staticstics</h2>
 </div>
 
 <p align="center">

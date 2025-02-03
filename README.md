@@ -2,7 +2,7 @@
 
 *Hi, i'm **g0ofycat!** A **4 year Game/Web Developer** (Mainly Game Developer) that likes scripting! I am currently **not for hire** as I am working on other projects. If you have any questions, visit my **portfolio** or contact me on **discord!***
 <div align="center">
-  <h2>-- Github Staticstics --</h2>
+  <h2>    -- Github Staticstics --</h2>
 </div>
 
 <p align="center">

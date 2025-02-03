@@ -1,4 +1,5 @@
-![Header](https://github.com/user-attachments/assets/9f9b9183-6ed9-4dc6-b2eb-55ba6db6c431)
+<img src="https://github.com/user-attachments/assets/9f9b9183-6ed9-4dc6-b2eb-55ba6db6c431" width="50%">
+
 
 
 <img align="right" alt="Coding" width="100" src="https://github.com/user-attachments/assets/16f40421-153c-4acb-9f3c-5382b773f537">

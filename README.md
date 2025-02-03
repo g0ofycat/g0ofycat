@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eeece087-2b8a-4270-adfc-2ac8e7c21826" alt="Snow Winter" width="100%">
+  <img src="https://github.com/user-attachments/assets/eeece087-2b8a-4270-adfc-2ac8e7c21826" alt="Snow Winter" style="height: 300px; width: auto;">
 </p>
 
 <img align="right" alt="Coding" width="100" src="https://github.com/user-attachments/assets/16f40421-153c-4acb-9f3c-5382b773f537">

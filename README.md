@@ -1,4 +1,4 @@
-![cat-black-cat](https://github.com/user-attachments/assets/efa3eb4d-efc3-4129-a287-f07bf5347928)
+[blue-cat](https://github.com/user-attachments/assets/4508a642-faf7-47f2-840b-22ddcbdcd540)
 
 ☆ *Hi, i'm g0ofycat! A 4 year Game / Web developer! (Mainly Game Developer) I am full-stack for both of them, currently not taking any Commisions/Jobs! Read my portfolio if you have any extra questions!* ☆ 
 

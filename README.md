@@ -1,3 +1,3 @@
-**5-6 year programmer**
+**6-7 year programmer**
 
-python, luau, c, c++, html, css, ts
+python, luau, c, c++, x86-64, ts
